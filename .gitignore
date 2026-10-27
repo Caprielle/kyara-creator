@@ -21,3 +21,6 @@ Thumbs.db
 /AGENTS.md
 /CONTEXT.md
 /.codex/
+
+# 生成的输出文件
+/output/
